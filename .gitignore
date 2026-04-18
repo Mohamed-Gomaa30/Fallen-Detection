@@ -3,12 +3,13 @@
 .env
 .gitignore
 
-/assets/
 .DS_Store
 
 **/weights/*
 ./models/*
-
+**/*.pt
+**/*.pth
+**/*.avi
 
 /home/mohamed-gomaa/FallenDetection/assets/Object_Detection/CUACA/FineTune_YoloV8_(CUACA_Dataset)_with_COCO_weights/predict/*
 /home/mohamed-gomaa/FallenDetection/assets/Object_Detection/CUACA/FineTune_YoloV8_(CUACA_Dataset)_with_COCO_weights/train/weights/*

@@ -1,0 +1,17 @@
+### Comprehensive Classification Report ###
+
+--- Per-Class Metrics ---
+   Class  TP  FP  FN  TN  Precision  Recall  F1-Score  Accuracy  Sensitivity  Specificity  mAP50  mAP50-95
+    fall 105   5   6 112      0.961   0.964     0.962     0.952        0.964        0.957  0.981     0.887
+not_fall 108   1   4 115      0.966   0.991     0.978     0.978        0.991        0.991  0.995     0.883
+
+--- Overall Metrics ---
+     Metric  Value
+  Precision  0.964
+     Recall  0.977
+   F1-Score  0.970
+   Accuracy  0.930
+Sensitivity  0.977
+Specificity -0.200
+      mAP50  0.988
+   mAP50-95  0.885
