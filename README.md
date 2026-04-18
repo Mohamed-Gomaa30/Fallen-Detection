@@ -1,6 +1,6 @@
 # Fallen Detection System
 
-A computer vision-based fall detection system using deep learning models for real-time person fall detection in video streams. This project is part of a graduation project focused on enhancing elderly care and safety monitoring.
+A computer vision-based fall detection system using deep learning models for real-time person fall detection in video streams.
 
 ## Features
 
